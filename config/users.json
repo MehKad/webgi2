@@ -1,22 +1,6 @@
 [
-  {
-    "username": "mehdi",
-    "password": 123,
-    "score": 0
-  },
-  {
-    "username": "imad",
-    "password": 123,
-    "score": 0
-  },
-  {
-    "username": "walid",
-    "password": 123,
-    "score": 0
-  },
-  {
-    "username": "oussama",
-    "password": 123,
-    "score": 0
-  }
+  { "username": "mehdi", "password": "123", "score": 0 },
+  { "username": "imad", "password": "123", "score": 0 },
+  { "username": "walid", "password": "123", "score": 0 },
+  { "username": "oussama", "password": "123", "score": 0 }
 ]

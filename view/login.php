@@ -47,6 +47,7 @@ if (isset($_POST["sbmt"])) {
       <input type="password" name="pswd" id="pswd">
       <br><br>
       <input type="submit" value="Login" name="sbmt">
+      <button><a href="register.php">Register</a></button>
    </form>
 </body>
 
